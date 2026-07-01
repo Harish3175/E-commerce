@@ -9,7 +9,7 @@ const Footer = () => {
         <div>
             <img src={assets.logo} className='mb-5 w-32' alt="" />
             <p className='w-full md:w-2/3 text-gray-600'>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+             It is not just about finding the perfect fit or color; it’s a way to express your unique personality and style. Whether you are looking for a casual everyday piece or formal wear, the right dress always makes you feel confident and beautiful.
             </p>
         </div>
 

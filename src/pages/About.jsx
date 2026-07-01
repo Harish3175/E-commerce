@@ -12,8 +12,8 @@ const About = () => {
       <div className='my-10 flex flex-col md:flex-row gap-16'>
         <img className='w-full md:max-w-[450px]' src={assets.about_img} alt='' />
         <div className='flex flex-col justify-center gap-6 md:w-2/4 text-gray-600'>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem commodi consectetur libero aliquid laudantium qui unde expedita quasi illo provident officiis porro deserunt modi sint, deleniti fuga eaque at eligendi id. Excepturi assumenda laboriosam mollitia eaque recusandae blanditiis pariatur maiores nam commodi nesciunt praesentium itaque, aspernatur cupiditate, impedit, a quaerat.</p>
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates eius est eum mollitia minima aperiam corporis. Maxime ratione harum reiciendis dolore deleniti assumenda! Iure dolorem fugiat libero vitae quasi, animi, debitis aliquam beatae ea natus harum dignissimos. Molestiae sequi similique.</p>
+          <p>We believe that what you wear should make you feel confident, comfortable, and effortlessly you. Founded in 2025 in Chennai, Forever was born out of a desire to create high-quality, everyday essentials without the luxury markup.We design our collections with the modern lifestyle in mind. From the drawing board to the final stitch, every piece is crafted using ethically sourced, premium fabrics designed to last. </p>
+          <p>We focus on clean lines, versatile silhouettes, and sustainable practices so you can look good while doing good for the planet.Thank you for being a part of our journey. We can't wait to see how you style Forever.</p>
           <b className='text-gray-800'>Our Mission</b>
           <p>We create stylish, high-quality clothing designed for everyday confidence.
             Our mission is to make fashion accessible, affordable, and sustainable for everyone.
