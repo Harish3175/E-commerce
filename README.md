@@ -96,11 +96,23 @@ npm run dev
 ## 📷 Screenshots
 
 - Home Page
+- <img width="1958" height="969" alt="image" src="https://github.com/user-attachments/assets/1de6a8d6-ec4b-46f1-982a-b18467356688" />
+
 - Product Collection
+- <img width="1920" height="973" alt="image" src="https://github.com/user-attachments/assets/113153ad-69c8-4474-b91a-2203a88e9cd6" />
+
 - Best Sellers
+- <img width="1920" height="969" alt="image" src="https://github.com/user-attachments/assets/c3f20555-448a-40c6-b1d8-cb8a34a0433d" />
+
 - Cart
+- <img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/62afb600-21e7-4d73-9e22-d5062c3809f4" />
+
 - Checkout
+- <img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/32b1b1ac-e8a7-4f4f-a15a-b711e25cb341" />
+
 - Orders
+- <img width="1920" height="966" alt="image" src="https://github.com/user-attachments/assets/e832cebb-3397-4897-a594-703b53691f38" />
+
 
 ## 👨‍💻 Author
 
